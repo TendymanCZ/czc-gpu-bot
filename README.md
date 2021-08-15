@@ -7,3 +7,4 @@ The url and interval can be modified and changed.
 
 
 
+![Screenshot_75](https://user-images.githubusercontent.com/33178391/129489530-74be1048-7d11-4002-90fe-ea42116cd9c9.png)
