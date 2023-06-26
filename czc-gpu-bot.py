@@ -1,8 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-import threading
 import time
-from threading import Timer
+
 
 while 1==1:
     unavailible = "Neznámácena"
